@@ -1,0 +1,47 @@
+commit 7825d61f3f8b675aa1effd5772f88450fa1b19df
+Author: Jessica Huancollo Chambi <hcjessica@outlook.com>
+Date:   Sat Nov 14 19:57:52 2020 -0500
+
+    Se agregó un punto final.
+
+commit d4ef90e41d63cb956950c989eae99821509701bd
+Author: Jessica Huancollo Chambi <hcjessica@outlook.com>
+Date:   Wed Nov 11 23:20:26 2020 -0500
+
+    Reemplazo de una versión por otra de la historia
+
+commit a7c6714963c5ee0743d0539667ff595e0ce04fbd
+Author: Jessica Huancollo Chambi <hcjessica@outlook.com>
+Date:   Wed Nov 11 23:15:07 2020 -0500
+
+    Reemplado de una versión por otra de la historia
+
+commit f0a0bfcdcadc73da13b63f3245131e26730dfc06
+Author: Jessica Huancollo Chambi <hcjessica@outlook.com>
+Date:   Wed Nov 11 23:02:33 2020 -0500
+
+    cambio de maestría
+
+commit 1df648bbfc0d357d016c49d836333f2c04679dd4
+Author: Jessica Huancollo Chambi <hcjessica@outlook.com>
+Date:   Wed Nov 11 23:02:02 2020 -0500
+
+    cambio de vida
+
+commit 99dc3bc27ea2495575bf96ea9fb4d7ecfcd46eda
+Author: Jessica Huancollo Chambi <hcjessica@outlook.com>
+Date:   Wed Nov 11 22:57:16 2020 -0500
+
+    Arranco mi proyecto real con html y css
+
+commit e10d8d83813b1198b8a05ef881ce24167508e9f4
+Author: Jessica Huancollo Chambi <hcjessica@outlook.com>
+Date:   Wed Nov 11 18:51:22 2020 -0500
+
+    Cambios al archivo de historia para reflejar la edad correcta.
+
+commit b791494567a1f3c1a6b8f58e5130ec02f9c6323b
+Author: Jessica Huancollo Chambi <hcjessica@outlook.com>
+Date:   Wed Nov 11 18:44:45 2020 -0500
+
+    Este es el primer commit
