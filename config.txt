@@ -1,0 +1,4 @@
+Host *
+        AddKeysToAgent yes
+        UseKeychain yes
+        IdentityFile ruta-donde-guardaste-tu-llave-privada
