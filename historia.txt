@@ -1,5 +1,8 @@
 Éste archivo es el primero del proyecto. 
 Actually, I am 25 years old.
+
 I am studying Platzi now.
 I am happy :) !
 Un cambio en la historia.
+
+Ahora, HC Technology Perú será parte del proyecto Hyperblog.
